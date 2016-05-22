@@ -1,0 +1,30 @@
+/*
+HW 6: Extra Credit
+Fall 2014
+*/
+
+body{
+	font: 14pt cursive;
+	text-align: center;
+}
+
+#puzzlearea{
+	height: 400px;
+	margin: 0 auto;
+	position: relative;
+	text-align:center;
+	width: 400px;
+}
+
+#puzzlearea div{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	border: 5px solid black;
+	float:left;
+	font-size: 40pt;
+	height: 90px;
+	padding: 0px;
+	position: absolute;
+	vertical-align: middle;
+	width: 90px;
+}
